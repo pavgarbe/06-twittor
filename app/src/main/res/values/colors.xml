@@ -1,0 +1,9 @@
+package com.example.user.myapp2;
+
+    import android.support.v7.app.AppCompatActivity;import android.os.Bundle;
+
+    public class MainActivity extends AppCompatActivity {
+
+    private EditText et1;
+    
+   

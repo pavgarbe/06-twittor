@@ -1,0 +1,6 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="2" />
+      <entry action="Android.RunAndroidAvdManager" count="1" />
+    
